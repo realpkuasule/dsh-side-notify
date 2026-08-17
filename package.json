@@ -45,6 +45,7 @@
     "cordis.patch.yml",
     "dsh.plugin.json",
     "README.md",
+    "README.zh.md",
     "LICENSE"
   ],
   "license": "MIT",
