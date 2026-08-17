@@ -1,6 +1,6 @@
 {
   "name": "dsh-side-notify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "dsh-sidechat 配套插件：在侧边聊天旁悬浮按钮输入内容，直接推送给主 agent（作为主会话下一条消息处理）；同时注册 /notify 与 /to-main 斜杠命令。",
   "type": "module",
   "main": "lib/index.js",
