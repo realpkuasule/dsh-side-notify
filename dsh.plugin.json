@@ -1,0 +1,16 @@
+{
+  "id": "dsh-external/dsh-side-notify",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "description": "dsh-sidechat 配套插件：把消息直接推送给主 agent（悬浮按钮 + /notify、/to-main 斜杠命令），作为主会话下一条消息处理。",
+  "engines": {
+    "dsh": ">=0.1.0-rc.6"
+  },
+  "contributes": {
+    "tools": [],
+    "skills": []
+  },
+  "client": {
+    "main": "./lib/client-registry.js"
+  }
+}
